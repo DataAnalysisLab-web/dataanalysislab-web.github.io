@@ -1,4 +1,4 @@
-# DA-Lab
+# Data Analytics Lab
 
 Data Analytics Lab, Kwangwoon University
 
